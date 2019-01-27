@@ -1,0 +1,6 @@
+REDIS_URI = 'redis://localhost:6379/0?encoding=utf-8'
+REDIS_CHANNEL_PREFIX = 'psfw:'
+REDIS_KEY_PREFIX = 'psfw:'
+LOGFILE = None
+DEBUG = True
+DEBUG_ASYNCIO = True
